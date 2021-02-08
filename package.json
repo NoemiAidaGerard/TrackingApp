@@ -45,5 +45,16 @@
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0"
-  }
+  },
+  "description": "",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QNAGV/TrackingApp.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/QNAGV/TrackingApp/issues"
+  },
+  "homepage": "https://github.com/QNAGV/TrackingApp#readme"
 }
